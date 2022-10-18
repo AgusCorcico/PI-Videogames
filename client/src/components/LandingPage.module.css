@@ -1,0 +1,39 @@
+.landingContainer{
+    display: flex;
+    justify-content: right;
+    height: 100vh;
+    background-image: url("../images/assassinscread.jpg");
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.landingContainer2{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-right: 150px;
+}
+
+.title{
+    color: rgb(19, 18, 18);
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-weight: 650;
+    font-family: 'Varela', sans-serif;
+
+}
+
+.title {
+    color: rgb(41, 40, 40);
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-color: gray;
+    -webkit-text-stroke-color: gray;
+    text-shadow: 4px 4px black;
+    cursor: default;
+}
+
+
+

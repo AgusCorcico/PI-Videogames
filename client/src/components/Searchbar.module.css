@@ -1,0 +1,19 @@
+.searchBar{
+    display:flex;
+    float:right;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.inputSearch{
+    display: flex;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-right: 5px;
+}
+button{
+    margin-top: 20px;
+}

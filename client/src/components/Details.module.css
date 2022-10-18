@@ -1,0 +1,47 @@
+.cardContainer{
+    background-color: black;
+}
+
+.gameDetails{
+    background-color: black;
+}
+
+h1 {
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.gameImg{
+    width: 900px;
+    height: 600px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 30px;
+    padding: 10px 10px 10px 10px;
+}
+
+h5{
+    padding: 10px 10px 10px 10px;
+}
+
+.descContainer{
+    width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+button{
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
